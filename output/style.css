@@ -45,7 +45,7 @@ h1 {
    width: 60%;
 }
 
-.card-top {
+.card-header {
     background-color: #0077b6;
     opacity: 70%;
     padding: 2vmin;
@@ -67,14 +67,14 @@ h1 {
     text-align: left;
 }
 
-.engineer .card-top {
+.engineer .card-header {
     background-color: black;
     opacity: 70%;
     padding: 2vmin;
     color: white
 }
 
-.intern .card-top {
+.intern .card-header {
     background-color: #6c757d;
     opacity: 70%;
     padding: 2vmin;
