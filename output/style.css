@@ -1,0 +1,82 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Heading */
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+}
+
+.team-heading {
+    background-color: #023e8a;
+    background-image: linear-gradient(#023e8a, #0096c7);
+    opacity: 70%;
+}
+
+/* Cards */
+
+.container h1 {
+    font-size: 6vmin;
+    padding-top: 14vmin;
+}
+
+.team {
+  padding: 0px;
+}
+
+.card{
+   width: 22rem;
+   margin-top: 10vmin;
+   margin: 10vmin;
+
+}
+
+
+
+.card .card-body>a{
+   font-size: 1em;
+   
+}
+
+.border-raduis {
+   border-radius: 50%;
+   width: 60%;
+}
+
+.card-top {
+    background-color: #0077b6;
+    opacity: 70%;
+    padding: 2vmin;
+    color: white
+}
+
+.card-top h3 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.card-top h6 {
+    font-size: 20px;
+}
+
+.list-group-info{
+    padding: 0%;
+    text-align: left;
+}
+
+.engineer .card-top {
+    background-color: black;
+    opacity: 70%;
+    padding: 2vmin;
+    color: white
+}
+
+.intern .card-top {
+    background-color: #6c757d;
+    opacity: 70%;
+    padding: 2vmin;
+    color: white
+}
