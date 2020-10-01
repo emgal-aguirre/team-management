@@ -7,7 +7,7 @@ The user is promted with questions and once completed the team, cards are auto g
  
  ## Table of Contents 
  * [Installation Instructions](#Installation-Instructions)  
- * [Demo] (#Live Demo)
+ * [Demonstration] (#Demonstration)
  * [Testing](#Testing) 
   * [Questions](#Questions) 
  
@@ -20,7 +20,7 @@ Open integrated terminal and add a NPM install.
 
 Once NPM install is completed type node app.js and you will be promted to select a type of team member, by using down or up arrows and you will be promted with  a list of questions for each team member. After completing team, selected team completed and open team.html in the bowser. 
 
-# Live Demo
+# Demonstration
 https://youtu.be/BYRczhnrzp0
 
 # Testing 
