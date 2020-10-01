@@ -7,7 +7,7 @@ The user is promted with questions and once completed the team, cards are auto g
  
  ## Table of Contents 
  * [Installation Instructions](#Installation-Instructions)  
- * [Demonstration] (#Demonstration)
+ * [Demonstration](#Demonstration)
  * [Testing](#Testing) 
   * [Questions](#Questions) 
  
