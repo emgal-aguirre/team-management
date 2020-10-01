@@ -30,5 +30,5 @@ All test have past
  ## Questions  
  * Github Username: emgal-aguirre 
  * Email: emgal.aguirre@gmail.com 
- * How to contact: Via Email 
+ 
 
