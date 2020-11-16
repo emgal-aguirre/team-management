@@ -1,5 +1,5 @@
 # Team Management Directory 
-This application allows you to create an orginized page of your team including their Name, Title and contact information. 
+This application allows you to create an organized page of your team including their Name, Title, and contact information
 The user is promted with questions and once completed the team, cards are auto generatored with the teams information.
 
 ![ ](Assets/screenshot.png)
